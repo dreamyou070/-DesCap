@@ -7,8 +7,6 @@ Descriptive Captioning means, you can get sentence not only the object focused b
 We also open the pretrained model trained with MS COCO train dataset. Two kinds of traine models, and each one means trained from the empty model, and another is trained from the [BLIP](https://github.com/salesforce/BLIP) pretrained. Although the necessary size of image in the model is 384, but users do not have to control or change the image size.
 
 # Approach
-![image](https://user-images.githubusercontent.com/68425947/209453711-c9416d4f-6ee8-45fd-b24f-dfec307d4722.png)
-
 
 # Inference demo:
 Run our interactive demo using Colab notebook (no GPU needed). The demo includes code for:
